@@ -13,11 +13,14 @@
     b {
       margin-right: 8px;
     }
-
-    span {
+    
+    button {
       color: $orange;
+      border: none;
       border-bottom: 1px dashed $orange;
       cursor: pointer;
+      background-color: #ffffff;
+      font-size: 16px;
     }
   }
 
